@@ -6,6 +6,7 @@
     <DDLNAME>ZI_RAP_LONGTEXT</DDLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <DDTEXT>Long Text Custom Entity</DDTEXT>
+    <SOURCE_TYPE>Q</SOURCE_TYPE>
    </DDLS>
   </asx:values>
  </asx:abap>
